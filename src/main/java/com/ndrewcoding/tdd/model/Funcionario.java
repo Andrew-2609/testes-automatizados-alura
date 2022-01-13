@@ -30,5 +30,5 @@ public class Funcionario {
     public void reajustarSalario(BigDecimal reajuste) {
         salario = salario.add(reajuste);
     }
-    
+
 }
