@@ -1,4 +1,4 @@
-package com.ndrewcoding.tdd;
+package main.java.com.ndrewcoding.basic;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
