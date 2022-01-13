@@ -1,0 +1,6 @@
+# IntelliJ IDEA
+.idea/
+testes-automatizados-alura.iml
+
+# Generated files
+out/
